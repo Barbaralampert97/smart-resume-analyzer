@@ -18,3 +18,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Datasets grandes
+jobs_dataset_with_features.csv
+clean_resume_data.csv
