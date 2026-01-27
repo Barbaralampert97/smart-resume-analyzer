@@ -14,3 +14,5 @@ AI-powered resume screening system that extracts, classifies, and recommends job
 - pandas
 - NLP
 
+## Datasets:
+### Link: https://www.kaggle.com/datasets/noorsaeed/resume-datasets/data?select=jobs_dataset_with_features.csv
